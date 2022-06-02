@@ -9,6 +9,7 @@ int main() {
 	cout<<" Enter value for third number";
 	cin>>num3;
 	if(num1>num2&&num1>num3)
+	//edit//
 	{
 		cout<<" First number is greatest:"<<endl<<"whick is= "<<num1;
 	}
